@@ -1,2 +1,7 @@
 # Exploring-the-Cricket-World-Cup-An-EDA-Journey
-detail EDA 
+
+- Data exploring
+- Handling missing values
+- basis plots
+- Still exploring
+- 
