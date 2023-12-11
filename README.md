@@ -22,7 +22,7 @@
 
 # How to run Notebook 
 
-Clone the repo and run your Notebook form terminal and start 
+Clone the repo and import where your jupyter notebook files are saved
   
  
  
